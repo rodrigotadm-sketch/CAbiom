@@ -1,0 +1,686 @@
+{
+  "title": "CABIOM — CENTRO ACADÊMICO DE BIOMEDICINA",
+  "subtitle": "Representação estudantil do Curso de Biomedicina — UFPR",
+  "intro": "O Centro Acadêmico de Biomedicina (CABIOM) representa os estudantes do curso e organiza ações de integração, representação acadêmica, ensino, pesquisa, extensão, eventos e apoio à comunidade discente.",
+  "gestoes": [
+    {
+      "ano": "2026",
+      "status": "aguardando_atualizacao",
+      "nome_gestao": "",
+      "membros": [],
+      "representacao": [],
+      "email": "",
+      "instagram": "",
+      "observacoes": "Informações da gestão 2026 serão inseridas quando confirmadas."
+    },
+    {
+      "ano": "2025",
+      "status": "aguardando_atualizacao",
+      "nome_gestao": "",
+      "membros": [],
+      "representacao": [],
+      "email": "",
+      "instagram": "",
+      "observacoes": "Informações da gestão 2025 serão inseridas quando confirmadas."
+    },
+    {
+      "ano": "2024",
+      "status": "historica",
+      "nome_gestao": "",
+      "membros": [
+        [
+          "Presidente(a)",
+          "Amanda Letycya Onuki Oliveira dos Santos"
+        ],
+        [
+          "Vice-Presidente(a)",
+          "Cynthia Bonfim dos Santos"
+        ],
+        [
+          "Assessoria de Comunicação",
+          "Jamile Galvão dos Santos Miranda"
+        ],
+        [
+          "Assessoria de Comunicação",
+          "Maria Clara Picinin"
+        ],
+        [
+          "Assessoria de Infraestrutura",
+          "Matheus Andre Budaz Alves"
+        ],
+        [
+          "Assessoria de Ensino, Pesquisa e Extensão",
+          "Adrelly Rayanne Rego Pacheco de Souza"
+        ],
+        [
+          "Assessoria de Ensino, Pesquisa e Extensão",
+          "Ana Júlia Esteves Vaz"
+        ],
+        [
+          "Assessoria de Produtos e Eventos",
+          "Bianca da Silva Vicente"
+        ],
+        [
+          "Assessoria de Produtos e Eventos",
+          "Gabriel Roneiro Pradella"
+        ],
+        [
+          "Diretor(a) de Comunicação",
+          "Giovanna Lyssa do Nascimento"
+        ],
+        [
+          "Diretor(a) de Ensino, Pesquisa e Extensão",
+          "Ana Paula Martins de Andrade"
+        ],
+        [
+          "Diretor(a) de Produtos e Eventos",
+          "Thiago Costa Machado"
+        ],
+        [
+          "Diretor(a) de Infraestrutura",
+          "Maria Fernanda Marchi Cruz"
+        ],
+        [
+          "Diretora de Tesouraria",
+          "Eloisa Bianchezzi Rosa"
+        ],
+        [
+          "Tesoureira(o)",
+          "Lucas Alexandre Venancìo"
+        ],
+        [
+          "Tesoureira(o)",
+          "Maiara Leandro Vaz"
+        ],
+        [
+          "Secretário(a)",
+          "Andressa Knapik Fontoura"
+        ]
+      ],
+      "representacao": [],
+      "email": "",
+      "instagram": "",
+      "observacoes": ""
+    },
+    {
+      "ano": "2023",
+      "status": "historica",
+      "nome_gestao": "",
+      "membros": [
+        [
+          "Presidente(a)",
+          "Yasmin Lacerda Nunes (abril – novembro)"
+        ],
+        [
+          "Vice-Presidente(a)",
+          "Leonel Witcoski Junior (abril – novembro)"
+        ],
+        [
+          "Presidente(a)",
+          "Leonel Witcoski Junior"
+        ],
+        [
+          "Vice-Presidente(a)",
+          "Andrielly de Oliveira Araújo"
+        ],
+        [
+          "Diretor(a) de Comunicação",
+          "Amanda Girardi Somensi"
+        ],
+        [
+          "Assessoria de Comunicação",
+          "Ana Júlia Pereira de Lima"
+        ],
+        [
+          "Assessoria de Comunicação",
+          "Nicolli de Oliveira Rosa"
+        ],
+        [
+          "Diretor(a) de Comunicação",
+          "Mariana Lenzi de Castro"
+        ],
+        [
+          "Diretor(a) de Eventos",
+          "Thayna Fujisawa Lima"
+        ],
+        [
+          "Diretor(a) de Eventos",
+          "Lara Ribeiro Rampim"
+        ],
+        [
+          "Diretor(a) de Infraestrutura",
+          "Julia Teixeira Lucena"
+        ],
+        [
+          "Diretor(a) de Infraestrutura",
+          "Lucas Brito de Souza Santos"
+        ],
+        [
+          "Diretor(a) de Ensino, Pesquisa e Extensão",
+          "Amanda Girardi Somensi"
+        ],
+        [
+          "Diretor(a) de Ensino, Pesquisa e Extensão",
+          "Leonel Witcoski Junior"
+        ],
+        [
+          "Tesoureira(o)",
+          "João Victor Aires Quintiere"
+        ],
+        [
+          "Tesoureira(o)",
+          "Caio Silva Pascoal Pereira"
+        ],
+        [
+          "Secretário(a)",
+          "Andrielly de Oliveira Araújo (abril – novembro)"
+        ]
+      ],
+      "representacao": [
+        [
+          "Representante Titular",
+          "Leonel Witcoski Junior"
+        ],
+        [
+          "Representante Suplente",
+          "Andrielly de Oliveira Araújo"
+        ]
+      ],
+      "email": "",
+      "instagram": "",
+      "observacoes": ""
+    },
+    {
+      "ano": "2022",
+      "status": "historica",
+      "nome_gestao": "",
+      "membros": [
+        [
+          "Presidente(a)",
+          "Keila Caroline Zimmermann"
+        ],
+        [
+          "Vice-Presidente(a)",
+          "Carlos Gabriel Alves de Lima"
+        ],
+        [
+          "Diretor(a) de Comunicação",
+          "Jonathan André Back"
+        ],
+        [
+          "Diretor(a) de Comunicação",
+          "Mariana Lenzi de Castro"
+        ],
+        [
+          "Diretor(a) de Eventos",
+          "Sabrina Kurscheidt"
+        ],
+        [
+          "Diretor(a) de Eventos",
+          "Heloisa Amancio"
+        ],
+        [
+          "Diretor(a) de Infraestrutura",
+          "Gabriel Costa Lourenço"
+        ],
+        [
+          "Diretor(a) de Infraestrutura",
+          "Ana Carla Costa e Silva"
+        ],
+        [
+          "Diretor(a) de Ensino, Pesquisa e Extensão",
+          "Kelly Carolina Sarmento de Souza"
+        ],
+        [
+          "Diretor(a) de Ensino, Pesquisa e Extensão",
+          "Elielton Horlem da Luz"
+        ],
+        [
+          "Tesoureira(o)",
+          "Luana Fortuna"
+        ],
+        [
+          "Tesoureira(o)",
+          "Júlia Formighieri Varaschin"
+        ],
+        [
+          "Secretário(a)",
+          "Paloma Basílio Marynowski"
+        ],
+        [
+          "Secretário(a)",
+          "Eleonora Ceola Reis"
+        ]
+      ],
+      "representacao": [
+        [
+          "Representante Titular",
+          "Keila Caroline Zimmermann"
+        ],
+        [
+          "Representante Suplente",
+          "Sabrina Kurscheidt Silva"
+        ]
+      ],
+      "email": "",
+      "instagram": "",
+      "observacoes": ""
+    },
+    {
+      "ano": "2021",
+      "status": "nao_informado",
+      "nome_gestao": "",
+      "membros": [],
+      "representacao": [],
+      "email": "",
+      "instagram": "",
+      "observacoes": "A página institucional atual não apresenta uma seção própria para a gestão 2021."
+    },
+    {
+      "ano": "2020",
+      "status": "historica",
+      "nome_gestao": "",
+      "membros": [
+        [
+          "Presidente(a)",
+          "Gabriel Henrique Barbosa da Costa Salkovski"
+        ],
+        [
+          "Vice-Presidente(a)",
+          "Arisa Namie Higashijima"
+        ],
+        [
+          "Diretor(a) de Comunicação",
+          "Amanda Hikari Iijima"
+        ],
+        [
+          "Diretor(a) de Comunicação",
+          "Marcos dos Santos Junior"
+        ],
+        [
+          "Diretora de Eventos",
+          "Julia Helena Carvalho"
+        ],
+        [
+          "Diretora de Eventos",
+          "Pietra Mancini Seibt"
+        ],
+        [
+          "Diretor de Infraestrutura",
+          "Stella Schuster da Silva"
+        ],
+        [
+          "Tesoureira(o)",
+          "Helena Lourenço Zielonka"
+        ],
+        [
+          "Tesoureira(o)",
+          "Pedro Henrique Fernandes Gatt"
+        ],
+        [
+          "Secretário(a)",
+          "William Mattana dos Santos"
+        ],
+        [
+          "Secretário(a)",
+          "Ivan Tsukuda"
+        ]
+      ],
+      "representacao": [
+        [
+          "Representante Titular",
+          "Mariane Pagno de Souza Bueno"
+        ],
+        [
+          "Representante Suplente",
+          "Gabriel Henrique Barbosa da Costa Salkovski"
+        ]
+      ],
+      "email": "",
+      "instagram": "",
+      "observacoes": ""
+    },
+    {
+      "ano": "2019",
+      "status": "historica",
+      "nome_gestao": "",
+      "membros": [
+        [
+          "Presidente",
+          "Alana Sueli dos Santos"
+        ],
+        [
+          "Vice-Presidente",
+          "Murilo Henrique Saturnino de Lima"
+        ],
+        [
+          "Diretor(a) de Comunicação",
+          "Jhonatan da Cruz Rodrigues"
+        ],
+        [
+          "Diretor(a) de Comunicação",
+          "Gabriel Baltazar"
+        ],
+        [
+          "Diretora de Eventos",
+          "Jackeline Pilar da Luz Mujica"
+        ],
+        [
+          "Diretora de Eventos",
+          "Mariane Pagno de Souza Bueno"
+        ],
+        [
+          "Diretor de Infraestrutura",
+          "Gabriel Henrique B. da Costa Salkovski"
+        ],
+        [
+          "Diretor de Infraestrutura",
+          "Jean Carlos Venera Junior"
+        ],
+        [
+          "Primeiro(a) Tesoureira(o)",
+          "Bianca Dias de Oliveira"
+        ],
+        [
+          "Segundo(a) Tesoureira(o)",
+          "Anya Dolinski Moreira de Souza"
+        ],
+        [
+          "Secretários(as)",
+          "Amanda Ferreira Schelles; Julia Barbieri Debiasi; Sofía Tomaselli Arioni"
+        ]
+      ],
+      "representacao": [
+        [
+          "Representante Titular",
+          "Jhonatan da Cruz Rodrigues"
+        ],
+        [
+          "Representante Suplente",
+          "Mariane Pagno de Souza Bueno"
+        ]
+      ],
+      "email": "",
+      "instagram": "",
+      "observacoes": ""
+    },
+    {
+      "ano": "2018",
+      "status": "historica",
+      "nome_gestao": "",
+      "membros": [
+        [
+          "Presidente",
+          "Mariane Pagno de Souza Bueno"
+        ],
+        [
+          "Vice-Presidente",
+          "Liziane Cristine Malaquias da Silva"
+        ],
+        [
+          "Diretora de Eventos",
+          "Gabriela Cezaretto Banzato"
+        ],
+        [
+          "Diretoras de Marketing",
+          "Lorena Maria Dering e Nicole Grechi Ribeiro"
+        ],
+        [
+          "Diretor de Infraestrutura",
+          "Victor Maltese Stoco"
+        ],
+        [
+          "Tesoureiras",
+          "Joyce Alves Martins e Mariana Valle de Lima"
+        ],
+        [
+          "Primeiro(a) Secretário(a)",
+          "Jhonatan da Cruz Rodrigues"
+        ],
+        [
+          "Segundo(a) Secretário(a)",
+          "Alana Sueli dos Santos"
+        ]
+      ],
+      "representacao": [],
+      "email": "",
+      "instagram": "",
+      "observacoes": ""
+    },
+    {
+      "ano": "2017",
+      "status": "historica",
+      "nome_gestao": "",
+      "membros": [
+        [
+          "Presidente",
+          "Joyce Alves"
+        ],
+        [
+          "Vice-presidente",
+          "Jade Lopes"
+        ],
+        [
+          "Tesoureiro",
+          "Juliana Tahan e Marielly Ospedal"
+        ],
+        [
+          "Secretários",
+          "Nicole Grechi e Lucas Farias"
+        ],
+        [
+          "Colaboradores de Relações",
+          "Bruno Fabbris, Gabriela Banzato e Lorena Dering"
+        ],
+        [
+          "Colaboradores de Planejamento",
+          "Liziane Malaquias, Alana Santos"
+        ]
+      ],
+      "representacao": [
+        [
+          "Representante de colegiado",
+          "Jade dos Santos Freire Lopes e Liziane Cristine Malaquias da Silva"
+        ]
+      ],
+      "email": "",
+      "instagram": "",
+      "observacoes": ""
+    },
+    {
+      "ano": "2016",
+      "status": "historica",
+      "nome_gestao": "",
+      "membros": [
+        [
+          "Presidente",
+          "Odair Braz Junior"
+        ],
+        [
+          "Vice-presidente",
+          "Heloize Zanon"
+        ],
+        [
+          "Tesoureiras",
+          "Ana Paula Peixoto e Amanda Balduíno dos Santos"
+        ],
+        [
+          "Secretárias",
+          "Gabriela Neubert e Luiza Kato"
+        ]
+      ],
+      "representacao": [
+        [
+          "Representante de colegiado",
+          "Luiza Kato e Amanda Akemi"
+        ],
+        [
+          "Representante setorial",
+          "Gabriela Neubert"
+        ]
+      ],
+      "email": "",
+      "instagram": "",
+      "observacoes": ""
+    },
+    {
+      "ano": "2015",
+      "status": "historica",
+      "nome_gestao": "",
+      "membros": [
+        [
+          "Presidente",
+          "Gabriel Paz Maschio"
+        ],
+        [
+          "Vice-Presidente",
+          "André Eduardo dos Santos"
+        ],
+        [
+          "1ª Secretária",
+          "Isabela Brito dos Santos"
+        ],
+        [
+          "2ª Secretária",
+          "Bruno Vinícus Fabbris Costa"
+        ],
+        [
+          "1ª Tesoureira",
+          "Ana Paula Routh Peixoto"
+        ],
+        [
+          "2ª Tesoureira",
+          "Juliana de Cássia Pinto Ferreira"
+        ],
+        [
+          "Colaboradora",
+          "Gabriela Bissoni Moura"
+        ],
+        [
+          "Colaboradora",
+          "Tamyres Mingorance Carvalho"
+        ],
+        [
+          "Colaboradora",
+          "Rafaela Caroline Santa Clara"
+        ],
+        [
+          "Colaboradora",
+          "Alysson Henrique Urbanski"
+        ]
+      ],
+      "representacao": [],
+      "email": "",
+      "instagram": "",
+      "observacoes": ""
+    },
+    {
+      "ano": "2014",
+      "status": "historica",
+      "nome_gestao": "",
+      "membros": [
+        [
+          "Presidente",
+          "Lucas Xavier Melnil"
+        ],
+        [
+          "Vice-Presidente",
+          "Giuliano Carlo Balbinot"
+        ],
+        [
+          "1ª Secretária",
+          "Marcela Verginia de Medeiros"
+        ],
+        [
+          "2ª Secretária",
+          "Israella Rotenski Colombo"
+        ],
+        [
+          "1ª Tesoureira",
+          "Aline Risson Belinovski"
+        ],
+        [
+          "2ª Tesoureira",
+          "Tamy Furusho"
+        ],
+        [
+          "Colaboradora",
+          "Juliana Beker Godoy"
+        ],
+        [
+          "Colaboradora",
+          "Daiana Drehmer"
+        ]
+      ],
+      "representacao": [
+        [
+          "Representantes do Colegiado",
+          "Daiana Drehmer e Juliana Beker Godoy"
+        ]
+      ],
+      "email": "",
+      "instagram": "",
+      "observacoes": ""
+    },
+    {
+      "ano": "2013",
+      "status": "historica",
+      "nome_gestao": "",
+      "membros": [
+        [
+          "Presidente",
+          "André Eduardo dos Santos"
+        ],
+        [
+          "Vice-Presidente",
+          "João Luiz Aldinucci Buzzo"
+        ],
+        [
+          "1ª Secretária",
+          "Tamyres M. Carvalho"
+        ],
+        [
+          "1ª Tesoureira",
+          "Jéssica de Oliveira"
+        ],
+        [
+          "2ª Tesoureira",
+          "Anaíti Antunes dos Santos"
+        ],
+        [
+          "Coordenador",
+          "Daiana Leila Drehmer"
+        ],
+        [
+          "Coordenador",
+          "Gabriele Luise Neves Alves"
+        ],
+        [
+          "Coordenador",
+          "Augusto Reis Ribeiro"
+        ],
+        [
+          "Coordenador",
+          "Roberto Rivera"
+        ],
+        [
+          "Coordenador",
+          "João Stanke Brito"
+        ]
+      ],
+      "representacao": [
+        [
+          "Representantes do Setor",
+          "João Stanke Brito e André Eduardo dos Santos"
+        ],
+        [
+          "Representantes do Colegiado",
+          "João Stanke Brito e Daiana Leila Drehmer"
+        ]
+      ],
+      "email": "",
+      "instagram": "",
+      "observacoes": ""
+    }
+  ]
+}
