@@ -7,7 +7,83 @@
       "ano": "2026",
       "status": "aguardando_atualizacao",
       "nome_gestao": "",
-      "membros": [],
+      "membros": [
+        [
+          "Presidente(a)",
+          "Ianê Cristina Seidler Rodrigues"
+        ],
+        [
+          "Vice-Presidente(a)",
+          "Eloisa Bianchezzi Rosa"
+        ],
+        [
+          "Diretor de Secretaria",
+          "João Matheus Gebiluca"
+        ],
+       [
+          "Assessora de Secretaria",
+          "Thays de Faria Andreata"
+        ],
+        [
+          "Diretora de tesouraria",
+          "Luiza Alves Moreira"
+        ],
+        [
+          "Assessora de tesouraria",
+          "Maria Vitória Romero da Cruz"
+        ],
+        [
+          "Diretora de comunicação",
+          "Juliana Costa da Silva"
+        ],
+        [
+          "Assessora de comunicação",
+          "Ágata Lhewicheski das Dores"
+        ],
+        [
+          "Assessora de comunicação",
+          "Isabella Selles Ferreira da Luz"
+        ],
+        [
+          "Diretora de infraestrutura",
+          "Maiara Leandro Vaz"
+        ],
+        [
+          "Assessor de infraestrutura",
+          "Matheus André Budaz Alves"
+        ],
+        [
+          "Diretora de ensino, pesquisa e extensão",
+          "Isabella Basílio da Silva"
+        ],
+        [
+          "Assessora de ensino, pesquisa e extensão",
+          "Bruna Vitória da Rosa"
+        ],
+        [
+          "Assessora de ensino, pesquisa e extensão",
+          "Maria Eduarda Masba Pinheiro"
+        ],
+        [
+          "Diretora de produtos e eventos",
+          "Yohana Guirardelli Milleki"
+        ],
+        [
+          "Assesor de produtos e eventos",
+          "Thiago Costa Machado"
+        ],
+        [
+          "Assessora de produtos e eventos",
+          "Bianca da Silva Vicente"
+        ],
+       [
+          "Assessor de produtos e eventos",
+          "Gabriel Romeiro Pradella"
+        ],
+        [
+          "Assessor de produtos e eventos",
+          "Gabriel Arrais da Silva"
+        ]],
       "representacao": [],
       "email": "",
       "instagram": "",
